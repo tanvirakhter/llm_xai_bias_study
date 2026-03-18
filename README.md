@@ -24,3 +24,20 @@ llm_xai_bias_study/
 ├── README.md
 └── .gitignore
 ```
+
+## Day 1 Progress
+- Dataset loaded and structured
+- Missing values handled (`?` → NaN)
+- Rows with missing values removed
+- Target variable (`income`) encoded (0/1)
+- Clean dataset saved for modelling
+
+## Day 2 Progress
+Completed:
+- feature and target preparation
+- categorical encoding and numerical scaling
+- train-test split
+- Logistic Regression baseline model
+- Random Forest baseline model
+- evaluation using accuracy, precision, recall, and F1-score
+- baseline results saved to the results folder
