@@ -1,0 +1,1251 @@
+prompt
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 47
+- Workclass: Local-gov
+- Education: Masters
+- Education Num: 14
+- Marital Status: Divorced
+- Occupation: Protective-serv
+- Relationship: Not-in-family
+- Race: Black
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 54
+- Workclass: Self-emp-not-inc
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Married-civ-spouse
+- Occupation: Transport-moving
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 15
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 37
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Married-civ-spouse
+- Occupation: Handlers-cleaners
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 40
+- Workclass: Local-gov
+- Education: Bachelors
+- Education Num: 13
+- Marital Status: Never-married
+- Occupation: Prof-specialty
+- Relationship: Not-in-family
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 36
+- Workclass: Private
+- Education: Assoc-acdm
+- Education Num: 12
+- Marital Status: Never-married
+- Occupation: Craft-repair
+- Relationship: Not-in-family
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 45
+- Workclass: Private
+- Education: 9th
+- Education Num: 5
+- Marital Status: Married-civ-spouse
+- Occupation: Adm-clerical
+- Relationship: Husband
+- Race: Black
+- Sex: Male
+- Capital Gain: 5178
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 35
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Divorced
+- Occupation: Other-service
+- Relationship: Not-in-family
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 45
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 24
+- Workclass: State-gov
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Never-married
+- Occupation: Other-service
+- Relationship: Not-in-family
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: Canada
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 40
+- Workclass: Private
+- Education: Masters
+- Education Num: 14
+- Marital Status: Married-civ-spouse
+- Occupation: Exec-managerial
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 46
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 50
+- Workclass: Private
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Married-civ-spouse
+- Occupation: Exec-managerial
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 39
+- Workclass: Private
+- Education: 11th
+- Education Num: 7
+- Marital Status: Divorced
+- Occupation: Sales
+- Relationship: Other-relative
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 24
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Never-married
+- Occupation: Adm-clerical
+- Relationship: Unmarried
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 60
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 21
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Never-married
+- Occupation: Craft-repair
+- Relationship: Own-child
+- Race: Black
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 39
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Divorced
+- Occupation: Farming-fishing
+- Relationship: Not-in-family
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 18
+- Workclass: Private
+- Education: 12th
+- Education Num: 8
+- Marital Status: Never-married
+- Occupation: Sales
+- Relationship: Own-child
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 20
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 74
+- Workclass: Federal-gov
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Widowed
+- Occupation: Transport-moving
+- Relationship: Not-in-family
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 18
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 40
+- Workclass: Private
+- Education: Bachelors
+- Education Num: 13
+- Marital Status: Married-civ-spouse
+- Occupation: Exec-managerial
+- Relationship: Wife
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 45
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 21
+- Workclass: Private
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Never-married
+- Occupation: Sales
+- Relationship: Own-child
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 1602
+- Hours per Week: 22
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 45
+- Workclass: Private
+- Education: Prof-school
+- Education Num: 15
+- Marital Status: Married-civ-spouse
+- Occupation: Exec-managerial
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 23
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Never-married
+- Occupation: Craft-repair
+- Relationship: Own-child
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: Columbia
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 40
+- Workclass: Private
+- Education: Assoc-voc
+- Education Num: 11
+- Marital Status: Married-civ-spouse
+- Occupation: Craft-repair
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 30
+- Workclass: Private
+- Education: Assoc-acdm
+- Education Num: 12
+- Marital Status: Married-civ-spouse
+- Occupation: Adm-clerical
+- Relationship: Wife
+- Race: Black
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 20
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 40
+- Workclass: Private
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Married-civ-spouse
+- Occupation: Sales
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 26
+- Workclass: Private
+- Education: Bachelors
+- Education Num: 13
+- Marital Status: Never-married
+- Occupation: Sales
+- Relationship: Not-in-family
+- Race: Asian-Pac-Islander
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 20
+- Native Country: South
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 48
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Widowed
+- Occupation: Other-service
+- Relationship: Not-in-family
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 44
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 52
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Married-civ-spouse
+- Occupation: Machine-op-inspct
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 2051
+- Hours per Week: 38
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 39
+- Workclass: Private
+- Education: Masters
+- Education Num: 14
+- Marital Status: Never-married
+- Occupation: Prof-specialty
+- Relationship: Not-in-family
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 60
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 71
+- Workclass: State-gov
+- Education: Prof-school
+- Education Num: 15
+- Marital Status: Married-civ-spouse
+- Occupation: Other-service
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 28
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 45
+- Workclass: Private
+- Education: Masters
+- Education Num: 14
+- Marital Status: Divorced
+- Occupation: Exec-managerial
+- Relationship: Not-in-family
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 44
+- Workclass: State-gov
+- Education: 11th
+- Education Num: 7
+- Marital Status: Separated
+- Occupation: Tech-support
+- Relationship: Not-in-family
+- Race: Black
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 30
+- Workclass: Private
+- Education: Assoc-acdm
+- Education Num: 12
+- Marital Status: Never-married
+- Occupation: Craft-repair
+- Relationship: Not-in-family
+- Race: White
+- Sex: Male
+- Capital Gain: 4787
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 61
+- Workclass: Private
+- Education: 9th
+- Education Num: 5
+- Marital Status: Divorced
+- Occupation: Other-service
+- Relationship: Not-in-family
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 44
+- Workclass: Federal-gov
+- Education: Assoc-acdm
+- Education Num: 12
+- Marital Status: Divorced
+- Occupation: Adm-clerical
+- Relationship: Not-in-family
+- Race: Black
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 1741
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 49
+- Workclass: Private
+- Education: 11th
+- Education Num: 7
+- Marital Status: Married-civ-spouse
+- Occupation: Other-service
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 52
+- Workclass: Self-emp-not-inc
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Married-civ-spouse
+- Occupation: Craft-repair
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 55
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 34
+- Workclass: Private
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Married-civ-spouse
+- Occupation: Handlers-cleaners
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 21
+- Workclass: Private
+- Education: 9th
+- Education Num: 5
+- Marital Status: Never-married
+- Occupation: Other-service
+- Relationship: Own-child
+- Race: Amer-Indian-Eskimo
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 38
+- Workclass: State-gov
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Divorced
+- Occupation: Other-service
+- Relationship: Unmarried
+- Race: White
+- Sex: Female
+- Capital Gain: 2036
+- Capital Loss: 0
+- Hours per Week: 20
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 38
+- Workclass: Private
+- Education: Assoc-acdm
+- Education Num: 12
+- Marital Status: Married-civ-spouse
+- Occupation: Craft-repair
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 50
+- Workclass: Self-emp-not-inc
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Married-civ-spouse
+- Occupation: Other-service
+- Relationship: Husband
+- Race: Asian-Pac-Islander
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 60
+- Native Country: South
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 41
+- Workclass: Private
+- Education: Bachelors
+- Education Num: 13
+- Marital Status: Married-civ-spouse
+- Occupation: Sales
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 39
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Married-civ-spouse
+- Occupation: Craft-repair
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 7298
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 41
+- Workclass: Self-emp-not-inc
+- Education: Prof-school
+- Education Num: 15
+- Marital Status: Married-civ-spouse
+- Occupation: Prof-specialty
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 25
+- Workclass: Private
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Never-married
+- Occupation: Sales
+- Relationship: Own-child
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 24
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 33
+- Workclass: Private
+- Education: 11th
+- Education Num: 7
+- Marital Status: Separated
+- Occupation: Sales
+- Relationship: Own-child
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 20
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 57
+- Workclass: Private
+- Education: Masters
+- Education Num: 14
+- Marital Status: Divorced
+- Occupation: Prof-specialty
+- Relationship: Not-in-family
+- Race: White
+- Sex: Female
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 46
+- Workclass: Private
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Married-civ-spouse
+- Occupation: Exec-managerial
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 40
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 34
+- Workclass: Private
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Married-civ-spouse
+- Occupation: Sales
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 55
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 36
+- Workclass: Private
+- Education: HS-grad
+- Education Num: 9
+- Marital Status: Married-civ-spouse
+- Occupation: Craft-repair
+- Relationship: Husband
+- Race: White
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 70
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
+"You are evaluating a structured profile for income classification.
+
+Profile:
+- Age: 43
+- Workclass: State-gov
+- Education: Some-college
+- Education Num: 10
+- Marital Status: Divorced
+- Occupation: Adm-clerical
+- Relationship: Not-in-family
+- Race: Black
+- Sex: Male
+- Capital Gain: 0
+- Capital Loss: 0
+- Hours per Week: 50
+- Native Country: United-States
+
+Task:
+Predict whether this person's income is:
+0 = <=50K
+1 = >50K
+
+Return your answer in exactly this format:
+Prediction: <0 or 1>
+Reason: <short explanation in 1-2 sentences>"
