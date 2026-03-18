@@ -41,3 +41,53 @@ Completed:
 - Random Forest baseline model
 - evaluation using accuracy, precision, recall, and F1-score
 - baseline results saved to the results folder
+
+## 🔍 Day 3: Explainability (SHAP)
+
+- Applied **SHAP (SHapley Additive Explanations)**
+- Analysed feature importance globally
+
+### Key Insights:
+- Strong predictors:
+  - Age
+  - Education level
+  - Capital gain
+  - Hours worked per week
+
+### Outputs:
+- SHAP Summary Plot → `figures/shap_summary.png`
+- SHAP Bar Plot → `figures/shap_bar.png`
+
+
+## Day 4: Bias & Fairness Analysis
+
+Evaluated model behaviour across demographic groups:
+
+### Groups Analysed:
+- Gender (`sex`)
+- Race (`race`)
+
+### Metrics:
+- Accuracy per group
+- Positive prediction rate per group
+
+### Key Findings:
+- Model performance varies across demographic groups
+- Differences in prediction rates suggest potential bias
+- Highlights importance of fairness in high-stakes AI systems
+
+### Outputs:
+- `results/gender_bias.csv`
+- `results/race_bias.csv`
+- `results/gender_positive_rate.csv`
+- `results/race_positive_rate.csv`
+
+---
+
+## 👨‍💻 Author
+**Tanvir Akhter Shakib**  
+MSc Data Science & Analytics
+BSc Computer Science (Software Engineerring)  
+Brunel University of London  
+
+---
