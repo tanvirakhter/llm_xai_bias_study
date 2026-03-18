@@ -13,13 +13,6 @@ To evaluate:
 - Adult Income Dataset (UCI Machine Learning Repository)
 - Predicts whether income exceeds $50K/year
 
-## Day 1 Progress
-- Dataset loaded and structured
-- Missing values handled (`?` → NaN)
-- Rows with missing values removed
-- Target variable (`income`) encoded (0/1)
-- Clean dataset saved for modelling
-
 ## Project Structure
 ```text
 llm_xai_bias_study/
@@ -30,3 +23,4 @@ llm_xai_bias_study/
 ├── paper/                 # paper drafts and notes
 ├── README.md
 └── .gitignore
+```
