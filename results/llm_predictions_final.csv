@@ -1,0 +1,49 @@
+age,workclass,fnlwgt,education,education_num,marital_status,occupation,relationship,race,sex,capital_gain,capital_loss,hours_per_week,native_country,actual,llm_prediction,llm_reason
+47,Local-gov,193012,Masters,14,Divorced,Protective-serv,Not-in-family,Black,Male,0,0,50,United-States,1,0,Despite a master’s degree and full-time work protective services in local government typically have moderate salaries and no capital gains.
+54,Self-emp-not-inc,158948,HS-grad,9,Married-civ-spouse,Transport-moving,Husband,White,Male,0,0,15,United-States,0,0,Very low weekly hours (15) strongly indicate part-time work which is unlikely to exceed 50K despite being self-employed.
+37,Private,105803,HS-grad,9,Married-civ-spouse,Handlers-cleaners,Husband,White,Male,0,0,40,United-States,0,0,HS education and a lower-skill occupation (handlers-cleaners) with standard hours typically correspond to lower income.
+40,Local-gov,27444,Bachelors,13,Never-married,Prof-specialty,Not-in-family,White,Male,0,0,50,United-States,1,1,Bachelor’s degree with a professional specialty role and 50-hour workweek suggests higher earning potential.
+36,Private,248708,Assoc-acdm,12,Never-married,Craft-repair,Not-in-family,White,Male,0,0,40,United-States,0,0,Mid-level education and a craft job with standard hours generally do not reach the >50K threshold.
+45,Private,186272,9th,5,Married-civ-spouse,Adm-clerical,Husband,Black,Male,5178,0,40,United-States,1,0,Low education level and clerical work suggest lower income and the modest capital gain is not sufficient to offset this.
+35,Private,268620,HS-grad,9,Divorced,Other-service,Not-in-family,White,Female,0,0,45,United-States,0,0,Service occupation and moderate hours without advanced education or capital gains indicate lower income.
+24,State-gov,90046,Some-college,10,Never-married,Other-service,Not-in-family,White,Female,0,0,40,Canada,0,0,Young age limited experience and service occupation strongly suggest income below 50K.
+40,Private,71738,Masters,14,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,46,United-States,1,1,Master’s degree and executive managerial role with full-time hours are strong indicators of higher income.
+50,Private,44368,Some-college,10,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,United-States,0,1,Executive managerial position and age with experience typically correspond to income above 50K.
+39,Private,184128,11th,7,Divorced,Sales,Other-relative,White,Female,0,0,40,United-States,0,0,Low education level and sales role without other strong income indicators suggest lower earnings.
+24,Private,201680,HS-grad,9,Never-married,Adm-clerical,Unmarried,White,Male,0,0,60,United-States,0,0,Young age and clerical work even with long hours typically do not exceed 50K.
+21,Private,275726,HS-grad,9,Never-married,Craft-repair,Own-child,Black,Male,0,0,40,United-States,0,0,Very young age and entry-level work strongly correlate with income below 50K.
+39,Private,53447,HS-grad,9,Divorced,Farming-fishing,Not-in-family,White,Female,0,0,40,United-States,0,0,Farming fishing roles generally have lower income levels especially without advanced education.
+18,Private,215190,12th,8,Never-married,Sales,Own-child,White,Female,0,0,20,United-States,0,0,Very young age part-time hours and limited education strongly indicate low income.
+74,Federal-gov,39890,Some-college,10,Widowed,Transport-moving,Not-in-family,White,Female,0,0,18,United-States,0,0,Part-time work at an advanced age in a non-specialized role suggests income below 50K.
+40,Private,225660,Bachelors,13,Married-civ-spouse,Exec-managerial,Wife,White,Female,0,0,45,United-States,1,1,Bachelor’s degree and executive managerial role with solid hours suggest higher income.
+21,Private,301408,Some-college,10,Never-married,Sales,Own-child,White,Female,0,1602,22,United-States,0,0,Young age part-time work and service job indicate income below 50K despite minor capital loss.
+45,Private,175958,Prof-school,15,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,United-States,1,1,Professional school education and executive managerial role strongly indicate high income.
+23,Private,287681,HS-grad,9,Never-married,Craft-repair,Own-child,White,Male,0,0,40,Columbia,0,0,Young age and craft job with standard hours typically correspond to lower income.
+40,Private,327573,Assoc-voc,11,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,40,United-States,0,0,Mid-level education and craft job with standard hours generally fall below 50K.
+30,Private,337908,Assoc-acdm,12,Married-civ-spouse,Adm-clerical,Wife,Black,Female,0,0,20,United-States,0,0,Part-time clerical work with moderate education suggests lower income.
+40,Private,176716,Some-college,10,Married-civ-spouse,Sales,Husband,White,Male,0,0,40,United-States,1,0,Sales role with average education and no additional indicators suggests income below 50K.
+26,Private,272669,Bachelors,13,Never-married,Sales,Not-in-family,Asian-Pac-Islander,Male,0,0,20,South,0,0,Part-time work and young age outweigh the benefit of a bachelor’s degree.
+48,Private,98719,HS-grad,9,Widowed,Other-service,Not-in-family,White,Female,0,0,44,United-States,0,0,Service occupation and moderate hours with no strong income indicators suggest lower earnings.
+52,Private,195635,HS-grad,9,Married-civ-spouse,Machine-op-inspct,Husband,White,Male,0,2051,38,United-States,0,0,Machine operation roles with standard hours typically fall below the 50K threshold.
+39,Private,32146,Masters,14,Never-married,Prof-specialty,Not-in-family,White,Male,0,0,60,United-States,0,1,Master’s degree and long work hours in a professional specialty role indicate higher income.
+71,State-gov,26109,Prof-school,15,Married-civ-spouse,Other-service,Husband,White,Male,0,0,28,United-States,0,0,Part-time work in a service occupation suggests income below 50K despite high education.
+45,Private,270842,Masters,14,Divorced,Exec-managerial,Not-in-family,White,Female,0,0,50,United-States,1,1,Master’s degree and executive managerial position with long hours indicate high earning potential.
+44,State-gov,199551,11th,7,Separated,Tech-support,Not-in-family,Black,Male,0,0,40,United-States,0,0,Low education and service occupation suggest lower income.
+30,Private,331419,Assoc-acdm,12,Never-married,Craft-repair,Not-in-family,White,Male,4787,0,50,United-States,1,0,Clerical role with moderate education and no capital gains indicates lower income.
+61,Private,95929,9th,5,Divorced,Other-service,Not-in-family,White,Male,0,0,40,United-States,0,0,Service occupation even with long hours typically does not exceed 50K.
+44,Federal-gov,139161,Assoc-acdm,12,Divorced,Adm-clerical,Not-in-family,Black,Female,0,1741,40,United-States,0,1,Self-employed craft work with long hours suggests potential for higher income.
+49,Private,233639,11th,7,Married-civ-spouse,Other-service,Husband,White,Male,0,0,50,United-States,0,0,Lower-skill occupation and moderate education typically result in income below 50K.
+52,Self-emp-not-inc,313243,HS-grad,9,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,55,United-States,1,0,Very young age and low education strongly indicate low income.
+34,Private,158615,Some-college,10,Married-civ-spouse,Handlers-cleaners,Husband,White,Male,0,0,40,United-States,0,0,Part-time work and service role suggest income below 50K despite small capital gain.
+21,Private,245572,9th,5,Never-married,Other-service,Own-child,Amer-Indian-Eskimo,Male,0,0,40,United-States,0,0,Craft job with moderate education typically falls below the threshold.
+38,State-gov,103925,HS-grad,9,Divorced,Other-service,Unmarried,White,Female,2036,0,20,United-States,0,0,Service occupation even with long hours generally yields lower income.
+38,Private,110713,Assoc-acdm,12,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,50,United-States,1,1,Bachelor’s degree and sales role with experience suggest potential for higher income.
+50,Self-emp-not-inc,131982,HS-grad,9,Married-civ-spouse,Other-service,Husband,Asian-Pac-Islander,Male,0,0,60,South,0,1,Significant capital gains strongly indicate income above 50K.
+41,Private,159549,Bachelors,13,Married-civ-spouse,Sales,Husband,White,Male,0,0,40,United-States,0,1,Professional education and specialty occupation with long hours suggest high income.
+39,Private,224531,HS-grad,9,Married-civ-spouse,Craft-repair,Husband,White,Male,7298,0,40,United-States,1,0,Young age and part-time work indicate income below 50K.
+41,Self-emp-not-inc,150533,Prof-school,15,Married-civ-spouse,Prof-specialty,Husband,White,Male,0,0,50,United-States,1,0,Low education and part-time work suggest lower income.
+25,Private,391192,Some-college,10,Never-married,Sales,Own-child,White,Male,0,0,24,United-States,0,1,Advanced degree and professional specialty role indicate higher income.
+33,Private,166961,11th,7,Separated,Sales,Own-child,White,Female,0,0,20,United-States,0,1,Executive managerial role and experience suggest income above 50K.
+57,Private,176079,Masters,14,Divorced,Prof-specialty,Not-in-family,White,Female,0,0,40,United-States,0,1,Long working hours in sales with stable employment suggest higher income potential.
+46,Private,325372,Some-college,10,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,United-States,0,1,Extremely long work hours in a skilled trade increase likelihood of income above 50K.
+34,Private,89644,Some-college,10,Married-civ-spouse,Sales,Husband,White,Male,0,0,55,United-States,1,0,Clerical government role without advanced education or capital gains suggests lower income.

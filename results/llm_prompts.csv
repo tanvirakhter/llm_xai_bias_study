@@ -1,4 +1,4 @@
-prompt
+﻿prompt,llm_prediction,llm_reason
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -23,7 +23,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Despite a master’s degree and full-time work protective services in local government typically have moderate salaries and no capital gains.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -48,7 +48,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Very low weekly hours (15) strongly indicate part-time work which is unlikely to exceed 50K despite being self-employed.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -73,7 +73,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,HS education and a lower-skill occupation (handlers-cleaners) with standard hours typically correspond to lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -98,7 +98,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Bachelor’s degree with a professional specialty role and 50-hour workweek suggests higher earning potential.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -123,7 +123,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Mid-level education and a craft job with standard hours generally do not reach the >50K threshold.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -148,7 +148,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Low education level and clerical work suggest lower income and the modest capital gain is not sufficient to offset this.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -173,7 +173,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Service occupation and moderate hours without advanced education or capital gains indicate lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -198,7 +198,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Young age limited experience and service occupation strongly suggest income below 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -223,7 +223,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Master’s degree and executive managerial role with full-time hours are strong indicators of higher income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -248,7 +248,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Executive managerial position and age with experience typically correspond to income above 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -273,7 +273,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Low education level and sales role without other strong income indicators suggest lower earnings.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -298,7 +298,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Young age and clerical work even with long hours typically do not exceed 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -323,7 +323,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Very young age and entry-level work strongly correlate with income below 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -348,7 +348,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Farming fishing roles generally have lower income levels especially without advanced education.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -373,7 +373,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Very young age part-time hours and limited education strongly indicate low income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -398,7 +398,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Part-time work at an advanced age in a non-specialized role suggests income below 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -423,7 +423,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Bachelor’s degree and executive managerial role with solid hours suggest higher income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -448,7 +448,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Young age part-time work and service job indicate income below 50K despite minor capital loss.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -473,7 +473,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Professional school education and executive managerial role strongly indicate high income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -498,7 +498,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Young age and craft job with standard hours typically correspond to lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -523,7 +523,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Mid-level education and craft job with standard hours generally fall below 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -548,7 +548,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Part-time clerical work with moderate education suggests lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -573,7 +573,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Sales role with average education and no additional indicators suggests income below 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -598,7 +598,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Part-time work and young age outweigh the benefit of a bachelor’s degree.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -623,7 +623,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Service occupation and moderate hours with no strong income indicators suggest lower earnings.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -648,7 +648,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Machine operation roles with standard hours typically fall below the 50K threshold.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -673,7 +673,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Master’s degree and long work hours in a professional specialty role indicate higher income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -698,7 +698,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Part-time work in a service occupation suggests income below 50K despite high education.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -723,7 +723,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Master’s degree and executive managerial position with long hours indicate high earning potential.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -748,7 +748,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Low education and service occupation suggest lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -773,7 +773,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Clerical role with moderate education and no capital gains indicates lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -798,7 +798,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Service occupation even with long hours typically does not exceed 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -823,7 +823,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Self-employed craft work with long hours suggests potential for higher income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -848,7 +848,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Lower-skill occupation and moderate education typically result in income below 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -873,7 +873,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Very young age and low education strongly indicate low income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -898,7 +898,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Part-time work and service role suggest income below 50K despite small capital gain.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -923,7 +923,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Craft job with moderate education typically falls below the threshold.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -948,7 +948,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Service occupation even with long hours generally yields lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -973,7 +973,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Bachelor’s degree and sales role with experience suggest potential for higher income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -998,7 +998,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Significant capital gains strongly indicate income above 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1023,7 +1023,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Professional education and specialty occupation with long hours suggest high income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1048,7 +1048,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Young age and part-time work indicate income below 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1073,7 +1073,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Low education and part-time work suggest lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1098,7 +1098,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Advanced degree and professional specialty role indicate higher income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1123,7 +1123,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Executive managerial role and experience suggest income above 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1148,7 +1148,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Long working hours in sales with stable employment suggest higher income potential.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1173,7 +1173,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",1,Extremely long work hours in a skilled trade increase likelihood of income above 50K.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1198,7 +1198,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",0,Clerical government role without advanced education or capital gains suggests lower income.
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1223,7 +1223,7 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",,
 "You are evaluating a structured profile for income classification.
 
 Profile:
@@ -1248,4 +1248,4 @@ Predict whether this person's income is:
 
 Return your answer in exactly this format:
 Prediction: <0 or 1>
-Reason: <short explanation in 1-2 sentences>"
+Reason: <short explanation in 1-2 sentences>",,
